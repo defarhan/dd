@@ -18,7 +18,7 @@ apt install git -y
 apt-get install ffmpeg -y
 _other_installs
 pip3 install -U pip
-git clone https://github.com/Shivam-demon/RUPU-AGAIN Github_Repo
+git clone https://github.com/Rupu-op/Fire Github_Repo
 cd Github_Repo
 pip3 install -U -r requirements.txt
 _externals
